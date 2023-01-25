@@ -1,2 +1,2 @@
-# vetores
- Programa simples que exibe uma matriz de diversas maneiras
+# vetor
+ Programa simples que exibe uma matriz de diversas maneiras diferentes.
